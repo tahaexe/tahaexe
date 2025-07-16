@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Core Tower Defense Mobile Game<br>🌱 I’m currently learning Unity, C#, Blender<br>💬 Ask me about Unity
+Indie game developer specializing in Unity and ASP.NET Core MVC (.NET).
+Focused on building high-quality mobile games and web applications.
 
 
 ## 🌐 Socials:
