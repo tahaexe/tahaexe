@@ -20,7 +20,19 @@ I'm an indie game developer. I build mobile games with **Unity** and **C#** and 
 - **Web applications:** ASP.NET Core MVC and .NET.
 - **Developer tools:** small, practical tools that take repetitive work off my plate, shared here on GitHub.
 
-## Featured projects
+## Games
+
+Published by [Skylines Games](https://www.skylinesgames.com/games) on the App Store and Google Play. Each game's page has screenshots, details and store links.
+
+| Game | Genre | Description | Platforms |
+|---|---|---|---|
+| [**Core Tower Defense**](https://www.skylinesgames.com/games/core-tower-defense) | Strategy | Build the road the zombies walk. | iOS · Android |
+| [**Galactic Survival**](https://www.skylinesgames.com/games/galactic-survival) | Action | Ten minutes. One ship. Keep moving. | iOS · Android |
+| [**Sky Castle: Puzzle Adventure**](https://www.skylinesgames.com/games/sky-castle-puzzle) | Puzzle | Find a way. Open the door. | iOS · Android |
+| [**Hoppino**](https://www.skylinesgames.com/games/hoppino) | Platformer | A frog with a very good jump. | Android |
+| [**Bilgi Şampiyonu**](https://www.skylinesgames.com/games/bilgi-sampiyonu) | Trivia | 9,000 questions, all in Turkish. | iOS · Android |
+
+## Open-source projects
 
 | Project | Description |
 |---|---|
@@ -42,6 +54,16 @@ I'm an indie game developer. I build mobile games with **Unity** and **C#** and 
 <br>
 
 Merhaba, ben Taha. Bursa'da yaşayan bağımsız bir oyun geliştiricisiyim. Kendi stüdyom [Skylines Games](https://skylinesgames.com/) çatısı altında **Unity** ve **C#** ile mobil oyunlar, **ASP.NET Core MVC** ile web uygulamaları geliştiriyorum. Son zamanlarda **Claude Code** ile yapay zekâ destekli geliştirme süreçleri kuruyor ve bunları açık kaynak araçlar olarak paylaşıyorum.
+
+**Oyunlar** ([tümü](https://www.skylinesgames.com/games?lang=tr))
+
+- **[Core Tower Defense](https://www.skylinesgames.com/games/core-tower-defense?lang=tr)** · Strateji: Zombilerin yürüyeceği yolu sen kur.
+- **[Galactic Survival](https://www.skylinesgames.com/games/galactic-survival?lang=tr)** · Aksiyon: On dakika, tek gemi. Durmak yok.
+- **[Sky Castle: Puzzle Adventure](https://www.skylinesgames.com/games/sky-castle-puzzle?lang=tr)** · Bulmaca: Bir yol bul, kapıyı aç.
+- **[Hoppino](https://www.skylinesgames.com/games/hoppino?lang=tr)** · Platform: Zıplaması çok iyi bir kurbağa.
+- **[Bilgi Şampiyonu](https://www.skylinesgames.com/games/bilgi-sampiyonu?lang=tr)** · Bilgi yarışması: Hepsi Türkçe 9.000 soru.
+
+**Açık kaynak projeler**
 
 - **[Claude Code Çalışma Şablonu](https://github.com/tahaexe/claude-code-work-template):** Claude Code için plan öncelikli bir çalışma sistemi. Her adımı doğrulayıp commit'ler, hafızasını repoda tutar; Unity eklentisi ve koşullu bir el kitabı içerir.
 - **[Windows 11 Tek Tıkla Ayarlar](https://github.com/tahaexe/win11-one-click-tweaks):** Tek çift tıkla Başlat aramasındaki internet sonuçlarını, Ayarlar'daki ve Dosya Gezgini'ndeki reklamları kaldırır, klasik sağ tık menüsünü getirir ve Nihai Performans güç planını açar.
